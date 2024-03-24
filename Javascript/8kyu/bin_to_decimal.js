@@ -17,7 +17,7 @@ function binToDec(bin) {
   }
 
 
-//best practice
+//best practice:
 
 function binToDec(bin){
     return parseInt(bin,2);
