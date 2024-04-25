@@ -18,3 +18,10 @@ function anyArrows(arrows) {
     }
     return false; // Return false if no undamaged arrow is found
   }
+
+
+  //best practice
+
+  function anyArrows(arrows){
+    return arrows.some(a => !a.damaged);
+  }
