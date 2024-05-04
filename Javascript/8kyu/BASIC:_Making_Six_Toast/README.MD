@@ -2,7 +2,9 @@ Kata Training <br>
 ![Static Badge](https://img.shields.io/badge/8kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)
 
 # BASIC: Making Six Toast.
-**DESCRIPTION:**<br>
+
+**DESCRIPTION:**
+
 #### Story:
 
 You are going to make toast fast, you think that you should make multiple pieces of toasts and once. So, you try to make 6 pieces of toast.
@@ -23,6 +25,5 @@ And in case of 12 you need 6 toasts less (but not -6):
 six_toast(12) == 6
 
 ## Tags:
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic) <br>
+
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic)
