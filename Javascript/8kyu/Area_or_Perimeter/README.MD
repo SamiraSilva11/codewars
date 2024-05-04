@@ -13,5 +13,7 @@ Example(Input1, Input2 --> Output):
 **Note:** for the purposes of this kata you will assume that it is a square if its length and width are equal, otherwise it is a rectangle.
 
 <hr>
-<i class="fa-solid fa-tag"></i>
-🏷 ️![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic)
+<i class="fa-solid fa-tag"></i><br>
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic) <br>
