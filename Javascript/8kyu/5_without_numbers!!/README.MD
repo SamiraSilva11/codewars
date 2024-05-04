@@ -3,7 +3,7 @@ Kata Training <br>
 
 # 5 without numbers !!
 
-**DESCRIPTION:**<br>
+**DESCRIPTION:**
 
 Write a function that always returns 5
 
@@ -13,6 +13,4 @@ Good luck :)
 
 
 ## Tags:
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/puzzles%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/restricted%20-%20purple?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/puzzles%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/restricted%20-%20purple?style=plastic)

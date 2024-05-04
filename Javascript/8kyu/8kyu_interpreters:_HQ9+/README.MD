@@ -34,4 +34,4 @@ For everything else, don't return anything (return null in C#, None in Rust, and
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic)
