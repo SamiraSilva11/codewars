@@ -14,6 +14,4 @@ Example(Input1, Input2 --> Output):
 
 <hr>
 <i class="fa-solid fa-tag"></i>
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic)
-![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic)
-![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic)
+🏷 ️![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic)
