@@ -11,10 +11,10 @@ This kata is part of a series with Aspect Ratio Cropping - Part 2 .
 
 ## Example
 374 × 280 pixel image with a 4:3 aspect ratio.
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Aspect_ratio_4_3_example.jpg" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Aspect_ratio_4_3_example.jpg" />
 
 500 × 280 pixel image with a 16:9 aspect ratio.
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Aspect_ratio_16_9_example3.jpg" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Aspect_ratio_16_9_example3.jpg" />
 
 
 ## <i class="fa-solid fa-tag"></i>
