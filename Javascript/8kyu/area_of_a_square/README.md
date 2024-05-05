@@ -13,4 +13,4 @@ Note: use the π value provided in your language (Math::PI, M_PI, math.pi, etc)
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/geometry%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20royalblue?style=plastic) ![Static Badge](https://img.shields.io/badge/geometry%20-%20orange?style=plastic) 

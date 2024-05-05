@@ -29,4 +29,4 @@ I
 ```
 
 ## Tags:
-![Static Badge](https://img.shields.io/badge/algorithms%20-%20teal?style=plastic) ![Static Badge](https://img.shields.io/badge/ASCII_art%20-%20darkgrey?style=plastic)
+![Static Badge](https://img.shields.io/badge/algorithms%20-%20teal?style=plastic) ![Static Badge](https://img.shields.io/badge/ascii_art%20-%20darkgrey?style=plastic)

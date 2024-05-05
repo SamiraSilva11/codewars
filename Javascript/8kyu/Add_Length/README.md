@@ -17,4 +17,4 @@ Your task is to write a function that takes a String and returns an Array/list w
 
 
 ## Tags:
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/arrays%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/lists%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/arrays%20-%20dodgerblue?style=plastic) ![Static Badge](https://img.shields.io/badge/lists%20-%20limegreen?style=plastic) 
