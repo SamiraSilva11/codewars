@@ -13,4 +13,4 @@ Good luck :)
 
 
 ## Tags:
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/puzzles%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/restricted%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/puzzles%20-%20red?style=plastic) ![Static Badge](https://img.shields.io/badge/restricted%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/security%20-%20black?style=plastic) 

@@ -1,5 +1,5 @@
 Kata Training <br>
-![Static Badge](https://img.shields.io/badge/7kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)
+![Static Badge](https://img.shields.io/badge/7%20kyu-white?style=plastic&logo=codewars&labelColor=%23B1361E&color=white)
 
 # Highest and Lowest
 
@@ -23,4 +23,4 @@ highAndLow("1 9 3 4 -5"); // return "9 -5"
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic)

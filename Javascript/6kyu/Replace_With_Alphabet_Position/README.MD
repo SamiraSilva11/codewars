@@ -1,5 +1,5 @@
 Kata Training <br>
-![Static Badge](https://img.shields.io/badge/6kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=yellow)
+![Static Badge](https://img.shields.io/badge/6%20kyu-yellow?style=plastic&logo=codewars&labelColor=%23B1361E&color=yellow)
 
 # Replace With Alphabet Position
 
@@ -23,4 +23,4 @@ Should return "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 1
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic)

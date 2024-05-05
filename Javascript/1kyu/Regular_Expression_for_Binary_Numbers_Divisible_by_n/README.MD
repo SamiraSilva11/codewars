@@ -25,4 +25,4 @@ Each n will be tested against random invalid tests and random valid tests (which
 ![Static Badge](https://img.shields.io/badge/algorithms%20-%20purple?style=plastic) <br>
 ![Static Badge](https://img.shields.io/badge/puzzles%20-%20purple?style=plastic) <br>
 ![Static Badge](https://img.shields.io/badge/regular_expressions%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/strings%20-%20purple?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) <br>
