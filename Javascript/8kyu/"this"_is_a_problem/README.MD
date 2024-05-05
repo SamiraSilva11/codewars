@@ -24,4 +24,4 @@ n.name //Expected: John Doe
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/language_features%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/object--_oriented_programing%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/language_features%20-%20steelblue?style=plastic) ![Static Badge](https://img.shields.io/badge/object--oriented_programing%20-%20maroon?style=plastic)

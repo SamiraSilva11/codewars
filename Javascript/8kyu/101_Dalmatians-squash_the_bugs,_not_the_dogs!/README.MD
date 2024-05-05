@@ -14,4 +14,4 @@ The number of dogs will always be a number and there will always be at least 1 d
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/debuggin%20-%20darkcyan?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/debugging%20-%20darkcyan?style=plastic)

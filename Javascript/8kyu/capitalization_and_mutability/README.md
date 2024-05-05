@@ -20,4 +20,4 @@ Examples:
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) ![Static Badge](https://img.shields.io/badge/debuggin%20-%20darkcyan?style=plastic)
+![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) ![Static Badge](https://img.shields.io/badge/debugging%20-%20darkcyan?style=plastic)

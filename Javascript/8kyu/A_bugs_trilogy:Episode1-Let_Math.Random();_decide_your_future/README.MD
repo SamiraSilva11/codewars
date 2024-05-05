@@ -25,4 +25,4 @@ This is my first Kata, so please any feedback (especially on Test Cases) is welc
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/debugging%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/debugging%20-%20darkcyan?style=plastic)
