@@ -19,4 +19,4 @@ Return true if the number of days passed from last to today is greater than cycl
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/date_time%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/date_time%20-%20pink?style=plastic)

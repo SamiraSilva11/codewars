@@ -19,4 +19,4 @@ Waiting for translations and Feedback! Thanks!
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20blue?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic)

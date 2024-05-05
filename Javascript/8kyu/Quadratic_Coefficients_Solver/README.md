@@ -38,4 +38,4 @@ This means (x-0) * (x-1) = 0; when we do the multiplication this becomes x^2 - x
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/algebra%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20royalblue?style=plastic) ![Static Badge](https://img.shields.io/badge/algebra%20-%20gold?style=plastic)

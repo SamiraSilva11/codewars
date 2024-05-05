@@ -21,4 +21,4 @@ This kata is part of a series with Aspect Ratio Cropping - Part 2 .
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20royalblue?style=plastic)

@@ -16,4 +16,4 @@ Use method prototypes to enable all Dogs to bark.
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/object--oriented_programing%20-%20purple?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/object--oriented_programing%20-%20maroon?style=plastic) 

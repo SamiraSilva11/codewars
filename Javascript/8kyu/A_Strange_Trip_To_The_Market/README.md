@@ -16,4 +16,4 @@ Since Nessie is a master of disguise, the only way accurately tell is to look fo
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/regular_expressions%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/regular_expressions%20-%20darkorange?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic)

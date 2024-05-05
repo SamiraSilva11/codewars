@@ -21,4 +21,4 @@ Assume that [a,b,c,d] and the answer are all integers (no floating numbers!). Sl
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/algebra%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/mathematics%20-%20royalblue?style=plastic) ![Static Badge](https://img.shields.io/badge/algebra%20-%20gold?style=plastic) 

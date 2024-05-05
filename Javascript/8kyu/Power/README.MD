@@ -20,4 +20,4 @@ numberToPower(10, 6) // -> 1000000
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/restricted%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/restricted%20-%20crimson?style=plastic)

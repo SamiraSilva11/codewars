@@ -11,4 +11,4 @@ Make sure that your function does not return a false positive by only checking t
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/puzzles%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/date_time%20-%20purple?style=plastic) 
+![Static Badge](https://img.shields.io/badge/puzzles%20-%20red?style=plastic) ![Static Badge](https://img.shields.io/badge/date_time%20-%20pink?style=plastic)

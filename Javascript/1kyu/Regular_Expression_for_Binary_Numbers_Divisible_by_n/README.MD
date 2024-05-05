@@ -1,5 +1,5 @@
 Kata Training <br>
-![Static Badge](https://img.shields.io/badge/1kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)
+![Static Badge](https://img.shields.io/badge/1kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=purple)
 
 # Regular Expression for Binary Numbers Divisible by n
 **DESCRIPTION:**<br>
@@ -22,7 +22,4 @@ Each n will be tested against random invalid tests and random valid tests (which
 - No funny business! There should be no need for prototyping, so don't even think about it.
 
 ## Tags:
-![Static Badge](https://img.shields.io/badge/algorithms%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/puzzles%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/regular_expressions%20-%20purple?style=plastic) <br>
-![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) <br>
+![Static Badge](https://img.shields.io/badge/algorithms%20-%20teal?style=plastic) ![Static Badge](https://img.shields.io/badge/puzzles%20-%20red?style=plastic) ![Static Badge](https://img.shields.io/badge/regular_expressions%20-%20darkorange?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) <br>

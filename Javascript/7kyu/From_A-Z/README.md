@@ -24,4 +24,4 @@ Note that if the range is given in capital letters, return the string in capital
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/algorithms%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) 
+![Static Badge](https://img.shields.io/badge/algorithms%20-%20teal?style=plastic) ![Static Badge](https://img.shields.io/badge/strings%20-%20blue?style=plastic) 
