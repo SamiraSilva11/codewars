@@ -1,5 +1,5 @@
 Kata Training <br>
-![Static Badge](https://img.shields.io/badge/6%20kyu-yellow?style=plastic&logo=codewars&labelColor=%23B1361E&color=yellow)
+![Static Badge](https://img.shields.io/badge/6kyu%20-%20yellow?style=flat&logo=codewars&labelColor=B1361E&color=yellow)
 
 # Replace With Alphabet Position
 

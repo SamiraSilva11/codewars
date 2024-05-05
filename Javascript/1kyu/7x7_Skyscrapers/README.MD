@@ -1,5 +1,5 @@
 Kata Training <br>
-![Static Badge](https://img.shields.io/badge/1kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)
+![Static Badge](https://img.shields.io/badge/1kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=purple)
 
 # 7×7 Skyscrapers
 **DESCRIPTION:**<br>
