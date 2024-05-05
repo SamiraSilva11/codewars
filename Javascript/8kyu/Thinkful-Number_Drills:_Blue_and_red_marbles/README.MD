@@ -19,4 +19,4 @@ You've decided to write a function, `guessBlue()` to help automatically calculat
 
 ## Tags:
 
-![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/probability%20-%20purple?style=plastic)
+![Static Badge](https://img.shields.io/badge/fundamentals%20-%20purple?style=plastic) ![Static Badge](https://img.shields.io/badge/probability%20-%20olive?style=plastic)
