@@ -24,7 +24,16 @@ violating [Codewars policy](https://docs.codewars.com/community/rules/#policy):
 <div style="width: 520px;">
 
 
-## List of Complete Javascript Katas
+
+
+## List of Kata Folders
+
+[![Static Badge](https://img.shields.io/badge/8kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)](Javascript/8kyu) [![Static Badge](https://img.shields.io/badge/7kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)](Javascript/7kyu) [![Static Badge](https://img.shields.io/badge/6kyu%20-%20yellow?style=flat&logo=codewars&labelColor=B1361E&color=yellow)](Javascript/6kyu) [![Static Badge](https://img.shields.io/badge/5kyu%20-%20yellow?style=flat&logo=codewars&labelColor=B1361E&color=yellow)](Javascript/5kyu) [![Static Badge](https://img.shields.io/badge/4kyu%20-%20blue?style=flat&logo=codewars&labelColor=B1361E&color=blue)](Javascript/4kyu) [![Static Badge](https://img.shields.io/badge/3kyu%20-%20blue?style=flat&logo=codewars&labelColor=B1361E&color=blue)](Javascript/3kyu) [![Static Badge](https://img.shields.io/badge/2kyu%20-%20blue?style=flat&logo=codewars&labelColor=B1361E&color=purple)](Javascript/2kyu) [![Static Badge](https://img.shields.io/badge/1kyu%20-%20blue?style=flat&logo=codewars&labelColor=B1361E&color=purple)](Javascript/1kyu) 
+
+
+
+
+## List of Completed Javascript Katas
 
 Kata Title                                                        | Kata Level                                                         | Tags 
 -----------------------------------------------------------------|--------------------------------------------------------------------|---------------------------
