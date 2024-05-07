@@ -1,3 +1,7 @@
 ignore_folder/
 get_readme.js
 get_rep_readme.js
+node_modules
+mydatabase.db
+package-lock.json
+package.json
