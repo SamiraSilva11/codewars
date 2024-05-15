@@ -1,3 +1,4 @@
+.gitignore
 ignore_folder/
 get_readme.js
 get_rep_readme.js
