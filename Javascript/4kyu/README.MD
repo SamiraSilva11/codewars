@@ -1,5 +1,5 @@
 Kata Training <br>
-[![Static Badge](https://img.shields.io/badge/4%20kyu-yellow?style=plastic&logo=codewars&labelColor=%23B1361E&color=blue)](Javascript/4kyu)
+[![Static Badge](https://img.shields.io/badge/4kyu-yellow?style=plastic&logo=codewars&labelColor=%23B1361E&color=blue)](Javascript/4kyu)
 
 # Tic-Tac-Toe
 
