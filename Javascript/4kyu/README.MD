@@ -1,7 +1,7 @@
 Kata Training <br>
 [![Static Badge](https://img.shields.io/badge/4%20kyu-yellow?style=plastic&logo=codewars&labelColor=%23B1361E&color=blue)](Javascript/4kyu)
 
-# Stop gninnipS My sdroW!
+# Tic-Tac-Toe
 
 **DESCRIPTION:**
 
@@ -15,21 +15,20 @@ The board is represented as an array with the following indexes:
   3  |   4  |  5
 ---+---+---
   6  |   7  |  8 
- ```
- 
+```
+
 For example, the following board would be represented as
 
 ```
 solveTTT(['', '', '', 'O', '', '', 'X', '', ''])
 
+      |       |
+---+---+---
+  O  |      |
+---+---+---
+  X  |       |
+```
 
-      |       |  
----+---+---
-  O  |      |  
----+---+---
-  X  |       |   
- ```
- 
 Valid outputs for the above input would be 0, 1, 2, 4, 5, 7 or 8.
 
 The following board would only have 1 correct output (2) because it is the only move that connects 3 X's in a row:
