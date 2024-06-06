@@ -11,3 +11,8 @@ var findAverage = function (nums) {
     
     return mean;
   }
+
+
+
+  //best practice
+  const findAverage = nums => nums.reduce((a, b) => a + b) / nums.length;
