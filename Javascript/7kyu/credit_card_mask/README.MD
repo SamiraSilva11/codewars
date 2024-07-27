@@ -1,7 +1,7 @@
 Kata Training <br>
 [![Static Badge](https://img.shields.io/badge/7kyu%20-%20black?style=flat&logo=codewars&labelColor=B1361E&color=black)](Javascript/7kyu)
 
-# Clothes size number converter
+# Credit Card Mask
 
 **DESCRIPTION:**
 
