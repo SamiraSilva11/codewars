@@ -27,3 +27,17 @@ function sizeToNumber(size) {
   
     return null; // Default to null in case of unexpected values
   }
+
+
+
+//BEST PRACTICE
+
+function sizeToNumber(size) {
+  if (size == "s") return 36;
+  if (size == "m") return 38;
+  if (size == "l") return 40;
+  const x = size.match(/x/g)?.length;   // Count the number of 'x' characters
+  if (/^x+s$/.test(size)) return 36 - (x * 2);
+  if (/^x+l$/.test(size)) return 40 + (x * 2);
+  return null // Return null for invalid sizes
+}
