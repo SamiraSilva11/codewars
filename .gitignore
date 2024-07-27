@@ -6,3 +6,5 @@ node_modules
 mydatabase.db
 package-lock.json
 package.json
+SQL/
+Java/
